@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : libro3  # The title of the book. Will be placed in the left navbar.
-author                      : Eric Jesús Dávila, Erika Andrea Dávila  # The author of the book
+author                      : Eric J. Davila  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
 
